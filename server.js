@@ -1,6 +1,6 @@
 const express = require('express');
-const characterRoutes = require('./routes/characterRouter');
-const gameRoutes = require('./routes/gamesRouter')
+const characterRoutes = require('./app/routes/characterRouter');
+const gameRoutes = require('./app/routes/gamesRouter')
 const PORT = process.env.PORT || 3000;
 const cors = require('cors');
 
