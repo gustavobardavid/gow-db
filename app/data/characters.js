@@ -5,7 +5,7 @@ const characters = [
   { id: 4, name: 'Athena', role: 'Supporting', weapon: 'Divine Wisdom', cover: 'https://i.pinimg.com/564x/77/07/57/770757c00e4ef51098abe8b2462a6286.jpg' },
   { id: 5, name: 'Poseidon', role: 'Antagonist', weapon: 'Trident', cover: 'https://i.pinimg.com/564x/e8/a8/09/e8a8092515c23588f857fd6a67c288de.jpg' },
   { id: 6, name: 'Hades', role: 'Antagonist', weapon: 'Claws of Hades', cover: 'https://i.pinimg.com/564x/fb/a0/e5/fba0e5c972a21604be2032e1f445da66.jpg' },
-  { id: 7, name: 'Hercules', role: 'Antagonist', weapon: 'Gauntlets of Hercules', cover: 'https://i.pinimg.com/564x/ec/1d/3b/ec1d3b007c8438bbecee470c9abea130.jpg' },
+  { id: 7, name: 'Hercules', role: 'Antagonist', weapon: 'Nemean Cestus', cover: 'https://i.pinimg.com/564x/ec/1d/3b/ec1d3b007c8438bbecee470c9abea130.jpg' },
   { id: 8, name: 'Helios', role: 'Supporting', weapon: 'Sun Shield', cover:'https://i.pinimg.com/564x/b3/61/a5/b361a5970a41b507a539d03a1156f62a.jpg' },
   { id: 9, name: 'Hermes', role: 'Supporting', weapon: 'Golden Boots', cover: 'https://i.pinimg.com/564x/72/86/ad/7286ad71cdadc9fc895ce7d80fefb846.jpg' }
 ];
